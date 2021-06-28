@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.pysio.online</id>
     <title>Ourse</title>
-    <updated>2021-06-28T10:23:57.718Z</updated>
+    <updated>2021-06-28T11:24:30.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.pysio.online"/>
     <link rel="self" href="http://www.pysio.online/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>http://www.pysio.online/images/avatar.png</logo>
     <icon>http://www.pysio.online/favicon.ico</icon>
     <rights>All rights reserved 2021, Ourse</rights>
+    <entry>
+        <title type="html"><![CDATA[2021.6.28 Hypixel 起床 2V4 输]]></title>
+        <id>http://www.pysio.online/post/2021628-hypixel-qi-chuang-2v4-shu/</id>
+        <link href="http://www.pysio.online/post/2021628-hypixel-qi-chuang-2v4-shu/">
+        </link>
+        <updated>2021-06-28T11:23:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://www.pysio.online/post-images/1624879453778.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有关网站用途]]></title>
         <id>http://www.pysio.online/post/you-guan-wang-zhan-yong-tu/</id>
