@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.pysio.online</id>
     <title>Ourse</title>
-    <updated>2021-06-28T12:35:53.102Z</updated>
+    <updated>2021-06-28T12:36:55.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.pysio.online"/>
     <link rel="self" href="http://www.pysio.online/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>http://www.pysio.online/favicon.ico</icon>
     <rights>All rights reserved 2021, Ourse</rights>
     <entry>
-        <title type="html"><![CDATA[2021.6.28 Hypixel 战争领主 2胜（开箱传说]]></title>
+        <title type="html"><![CDATA[2021.6.28 Hypixel 战争领主 2胜（开箱传奇]]></title>
         <id>http://www.pysio.online/post/2021628-hypixel-zhan-zheng-ling-zhu-2-sheng-kai-xiang-chuan-shuo/</id>
         <link href="http://www.pysio.online/post/2021628-hypixel-zhan-zheng-ling-zhu-2-sheng-kai-xiang-chuan-shuo/">
         </link>
@@ -20,7 +20,7 @@
 <img src="http://www.pysio.online/post-images/1624883587084.png" alt="" loading="lazy"><br>
 第二场<br>
 <img src="http://www.pysio.online/post-images/1624883597112.png" alt="" loading="lazy"><br>
-开箱传说截图<br>
+开箱传奇截图<br>
 <img src="http://www.pysio.online/post-images/1624883617809.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
