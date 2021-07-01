@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.pysio.online</id>
     <title>Ourse</title>
-    <updated>2021-06-28T12:36:55.334Z</updated>
+    <updated>2021-07-01T02:46:00.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.pysio.online"/>
     <link rel="self" href="http://www.pysio.online/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>http://www.pysio.online/images/avatar.png</logo>
     <icon>http://www.pysio.online/favicon.ico</icon>
     <rights>All rights reserved 2021, Ourse</rights>
+    <entry>
+        <title type="html"><![CDATA[发布一个MOD]]></title>
+        <id>http://www.pysio.online/post/fa-bu-yi-ge-mod/</id>
+        <link href="http://www.pysio.online/post/fa-bu-yi-ge-mod/">
+        </link>
+        <updated>2021-07-01T02:41:56.000Z</updated>
+        <content type="html"><![CDATA[<p>这个MOD自文章发布时才开始开发，源代码开源。<br>
+下载地址：https://gitee.com/ourse-minecraft/ourse_mod/releases<br>
+基于fabrick开发，开发版本1.17<br>
+其他版本未测试<br>
+跟新日志<br>
+-0.0.1<br>
+添加了一个物品<br>
+增加简体中文，其他语言使用会直接显示源码名。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021.6.28 Hypixel 战争领主 2胜（开箱传奇]]></title>
         <id>http://www.pysio.online/post/2021628-hypixel-zhan-zheng-ling-zhu-2-sheng-kai-xiang-chuan-shuo/</id>
